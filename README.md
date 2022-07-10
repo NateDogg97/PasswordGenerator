@@ -11,3 +11,5 @@ I then confined the number of characters to between 8 and 128 to meet acceptance
 Next I wrote a separate function (perhaps this was unnecessary) to keep the page neat an organized. The purpose of the function  genChar() is to generate a number of random characters within the selected strings depending on the values submitted by the user.
 
 I used code I found online that uses a for-loop addition assignment combined with the charAt function to achieve this goal.
+
+https://natedogg97.github.io/PasswordGenerator/
